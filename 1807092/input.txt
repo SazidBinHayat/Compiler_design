@@ -1,0 +1,90 @@
+ADDLIB everything
+
+start()
+{
+
+	# Code start here
+
+	Int ab, bb, cb;
+
+	ab = 5;
+	bb = 10;
+	cb = ab plus bb;
+	display(cb);
+
+	Int pp;
+	pp = 2^4;
+	pp = pp ++;
+	display(pp);
+
+	is ((98 rem 2) !equal 0)
+	{
+		2 plus 2;
+	}
+	elis (4 plus 5)
+	{
+		92;
+	}
+	none
+	{
+		404;
+	}
+
+	go (4)
+	{
+		if 1:
+			1 plus 1;
+		if 2:
+			2 plus 1;
+		if 3:
+			3 plus 1;
+		default:
+			10 minus 1;
+	}
+
+	floop(1 gt 5)
+	{
+		92;
+	}
+	floop(1, 5, 1)
+	{
+		92;
+	}
+
+	fun sazid (Int a; Int b;)
+	{
+		Int result;
+		a = 4;
+		b = 2;
+		result = a ^ b;
+		display(result);
+
+		floop(3 gt 1)
+		{
+			92;
+		}
+	}
+
+	array //int// arrname ( 5 );
+
+
+	factorial_of(5);
+
+	min(7, 5);
+
+	max(4, 22);
+
+	isprime(7);
+
+	isprime(92);
+	
+	even_or_odd(8);
+
+	Int x,y;
+	x=2;
+	y=3;
+	xchange(x,y);
+	convert_to_binary(3);
+
+}
+

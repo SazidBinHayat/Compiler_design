@@ -1,0 +1,19 @@
+Addlib
+#this is cmmnt#
+start(())
+{
+Int a
+Int b
+Int c
+a+b
+c->b
+
+is((c equal b ))
+{
+}
+none
+
+a^^b
+char s 
+
+}

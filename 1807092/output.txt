@@ -1,0 +1,108 @@
+
+Header found: ADDLIB everything
+
+started main function 
+
+Single line comment found: # Code start here
+
+Interger Declaration
+
+Variable Declared
+
+Value of the variable: 5
+
+Value of the variable: 10
+
+Value of the variable: 15
+
+Print Function: 15
+
+Interger Declaration
+
+Variable Declared
+
+Value of the variable: 16
+
+Value of the variable: 17
+
+Print Function: 17
+
+Value of expression in ELIS: 92
+
+Expression value is 2 of Case 1
+
+Expression value is 3 of Case 2
+
+Expression value is 4 of Case 3
+
+Expression value is 9 of Default case
+
+SIMILIAR of Switch Case
+
+Choosen case number is: Default and the value is: 4
+
+Count loop: 1
+
+Count loop: 2
+
+Count loop: 3
+
+Count loop: 4
+
+Function Declaration
+
+Interger Declaration
+
+Variable Declared
+
+Interger Declaration
+
+Variable Declared
+
+Interger Declaration
+
+Variable Declared
+
+Value of the variable: 4
+
+Value of the variable: 2
+
+Value of the variable: 16
+
+Print Function: 16
+
+Count loop: 1
+
+Count loop: 2
+
+Function Declaration
+
+Interger Array Declared
+
+Size of the array is: 5
+
+Factorial of 5 is: 120
+
+Min of (7, 5) is: 5
+
+Max of (4, 22) is: 22
+
+7 is a Prime number.
+
+92 is Not a prime number
+Number : 8 is Even
+
+Interger Declaration
+
+Variable Declared
+
+Value of the variable: 2
+
+Value of the variable: 3
+
+First variabel = 3
+
+Second variabel = 2
+00000000000000000000000000000011
+
+Compilation Successful
